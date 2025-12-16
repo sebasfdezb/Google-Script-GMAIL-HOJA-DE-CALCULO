@@ -35,4 +35,3 @@ El cuerpo del correo se carga desde un archivo HTML alojado en Google Drive.
     * **Importante:** Incluye las etiquetas dinámicas que deseas reemplazar, como `{{name}}`.
 2.  Sube este archivo `.html` a tu Google Drive.
 3.  Haz clic derecho sobre el archivo en Drive, selecciona **Obtener enlace** y copia el **ID del archivo**. El ID es la cadena de caracteres entre `/d/` y `/view` en el enlace.
-    * **Ejemplo de URL:** `
